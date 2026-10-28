@@ -106,4 +106,4 @@ All eight steps are scaffolded in the one notebook, in order:
 - [x] 5 — Six-test Benjamini-Hochberg correction
 - [x] 6 — CUPED on spend
 - [x] 7 — Regression-to-the-mean check
-- [x] 8 — Guardrail synthesis (verdict still to be written once real results are in)
+- [x] 8 — Guardrail synthesis 
